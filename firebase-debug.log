@@ -1,0 +1,42 @@
+[debug] [2022-02-28T16:57:52.059Z] ----------------------------------------------------------------------
+[debug] [2022-02-28T16:57:52.066Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\54348\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-02-28T16:57:52.068Z] CLI Version:   10.2.1
+[debug] [2022-02-28T16:57:52.068Z] Platform:      win32
+[debug] [2022-02-28T16:57:52.069Z] Node Version:  v16.14.0
+[debug] [2022-02-28T16:57:52.070Z] Time:          Mon Feb 28 2022 13:57:52 GMT-0300 (hora estándar de Argentina)
+[debug] [2022-02-28T16:57:52.071Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-02-28T16:57:52.100Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-02-28T16:57:52.102Z] > authorizing via signed-in user (brianbn05@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\54348\Desktop\load\slack\slack-clone
+
+[debug] [2022-02-28T17:00:38.839Z] ----------------------------------------------------------------------
+[debug] [2022-02-28T17:00:38.845Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\54348\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-02-28T17:00:38.847Z] CLI Version:   10.2.1
+[debug] [2022-02-28T17:00:38.847Z] Platform:      win32
+[debug] [2022-02-28T17:00:38.848Z] Node Version:  v16.14.0
+[debug] [2022-02-28T17:00:38.849Z] Time:          Mon Feb 28 2022 14:00:38 GMT-0300 (hora estándar de Argentina)
+[debug] [2022-02-28T17:00:38.850Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-02-28T17:00:38.877Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-02-28T17:00:38.878Z] > authorizing via signed-in user (brianbn05@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\54348\Desktop\load\slack\slack-clone
+
